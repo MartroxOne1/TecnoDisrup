@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  energia: 1.5
+  proteina: 1.5
+  grasas_totales: 1.5
+
+two:
+  energia: 1.5
+  proteina: 1.5
+  grasas_totales: 1.5
